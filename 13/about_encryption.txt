@@ -1,6 +1,7 @@
-This file contains information to decrypt the AES CBC encrypted text.
+This file contains information to decrypt the encrypted text.
 
-AES Key: 467d84d9404dfeaf5471ae39a171c8ab4b036bed4493d3ccd2412e5a3a0bb143
+Algorithm: AES
+Mode: Cipher Block Chaining (CBC)
+AES Key: Check protected file, key.txt that contains the secret key
 Key Size: 256 bits
-IV: 65285b4ae93ddca282f05e4ddb12585c
-Ciphertext (Base64 encoded): ZShbSuk93KKC8F5N2xJYXKEZ9NxrEMFbt+J4LWmRH7zkUZHN1sDLQNk5SxWZBUfqCglBKTfdJn/A9NBB8LHkHhD6qjMi6bru1hFmWSKcknA+Al58ZEajxKvi1UHYwbca
+Initialization Vector (IV): 251f701b9d2cf75100754db624221ac0
