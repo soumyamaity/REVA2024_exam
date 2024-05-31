@@ -44,7 +44,7 @@
 7. **Write the decrypted message:**
    - After decrypting the message, write down the plaintext.
 
-**Due to a padding error, the first few charcters of the the decrypted text might be garbage. Ignore those characters.**
+**NOTE: Due to a padding error, the first few charcters of the the decrypted text might be garbage. Ignore those characters.**
 
 ### Additional Instructions:
 - Clearly show each step of your calculations and process to maximize your score.
