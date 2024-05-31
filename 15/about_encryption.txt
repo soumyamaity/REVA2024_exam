@@ -1,0 +1,6 @@
+This file contains information to decrypt the AES CBC encrypted text.
+
+AES Key: f0ae2903dcac8ce0b06f0557c2cdcda6635312b12a32e15fbb59bdd3dfa252b9
+Key Size: 256 bits
+IV: cbc68d5c335cf4a874c1472a610ab99c
+Ciphertext (Base64 encoded): y8aNXDNc9Kh0wUcqYQq5nLQd5n+O0fhjj5TCIbRnH0B0fdiOQ9orBZstMfDF1/Xd2RpR53vK+r+Sr1IbLUJPB25V8+Hm14yZwDEk2FtzO6FGOo3UNQjYJZfNMLsnYL/V
